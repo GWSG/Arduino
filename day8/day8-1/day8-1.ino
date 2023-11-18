@@ -6,7 +6,7 @@ volatile int cnt=0;
 volatile unsigned long now=0 , pre=0;
 //jnrfnjkfjvdins
 //luitehgiuehtkh
-//blbjkghfp;jtkyx,.jclcklbjn
+
 
 
 void setup() {
