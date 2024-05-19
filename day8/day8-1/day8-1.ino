@@ -4,9 +4,7 @@
 
 volatile int cnt=0;
 volatile unsigned long now=0 , pre=0;
-#ijegojthrjpso
-#itjhrprer[hropsj
-#hjgelk;lkgfea;'gww
+
 
 void setup() {
   // put your setup code here, to run once:
